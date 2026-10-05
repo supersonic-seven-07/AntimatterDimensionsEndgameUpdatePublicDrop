@@ -1,0 +1,1 @@
+{"sha":"697069a69db2a8a13440851efd027af7335eedfa","message":"Fix division by zero in equalizer functions\n\nRefactor tesseractEqualizer and tickspeedEqualizer to prevent division by zero.","author":"Supersonic Seven"}
